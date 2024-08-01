@@ -5,6 +5,22 @@ Welcome to keepTyping! This is a fun little program that takes whatever you type
 # How It Works
 Let's say you input I like croissants. The function will start by generating random characters from the standard keyboard and check if it hits the jackpot with the first character, I. If not, it just keeps trying until it does. Once it matches I, it moves on to l, then i, and so on, until it eventually spells out I like croissants. Magic, right?
 
+# How to install
+## Step 1
+Simply copy and paste it into your terminal/comand prompt/bash/whatever is your favorite
+```git clone https://github.com/shibjyoti555/keepTyping/```
+It should be done instantly
+## Step 2
+Navigate to the directory
+for Windows:
+```cd keepTyping```
+## Step 3
+Compile
+```javac keepTyping.java```
+## Step 4
+Run and enjoy :D
+```java keepTyping.class```
+
 # FAQ
 Why this?
 >Because who doesn't love a bit of randomness in their life? Plus, it's kinda like watching a super patient robot guess your password.
