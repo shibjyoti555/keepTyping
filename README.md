@@ -31,4 +31,3 @@ Can I eat this code?
 > I strongly advise against it. It probably tastes like regret.
 
 **So, go ahead, waste your time. Give it a phrase and watch the magic (or lack thereof) unfold.**
-Feel free to play around and watch the randomness unfold. Happy typing!
