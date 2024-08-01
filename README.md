@@ -8,18 +8,26 @@ Let's say you input I like croissants. The function will start by generating ran
 # How to install
 ## Step 1
 Simply copy and paste it into your terminal/comand prompt/bash/whatever is your favorite  
-```git clone https://github.com/shibjyoti555/keepTyping/```  
+```
+git clone https://github.com/shibjyoti555/keepTyping/
+```  
 It should be done instantly
 ## Step 2
 Navigate to the directory
 for Windows:  
-```cd keepTyping```
+```
+cd keepTyping
+```
 ## Step 3
 Compile  
-```javac keepTyping.java```
+```
+javac keepTyping.java
+```
 ## Step 4
 Run and enjoy :D  
-```java keepTyping.class```
+```
+java keepTyping.class
+```
 
 # FAQ
 Why this?
