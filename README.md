@@ -13,7 +13,7 @@ git clone https://github.com/shibjyoti555/keepTyping/
 ```  
 It should be done instantly
 ## Step 2
-Navigate to the directory
+Navigate to the directory  
 for Windows:  
 ```
 cd keepTyping
