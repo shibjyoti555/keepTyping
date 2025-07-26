@@ -1,35 +1,51 @@
 # keepTyping: The World's Most Pointless Code
+
 Wanna watch a computer type like a drunk monkey until it accidentally writes your message?
 Welcome to keepTyping! This is a fun little program that takes whatever you type and goes on a random character spree until it manages to recreate your exact input. Think of it like a monkey with a keyboard who somehow, someway, ends up typing out Shakespeare. But in this case, it's your input!
 
-# How It Works
-Let's say you input I like croissants. The function will start by generating random characters from the standard keyboard and check if it hits the jackpot with the first character, I. If not, it just keeps trying until it does. Once it matches I, it moves on to l, then i, and so on, until it eventually spells out I like croissants. Magic, right?
+## How It Works
 
-# How to install
-## Step 1
+Let's say you input `I like croissants`. The function will start by generating random characters from the standard keyboard and check if it hits the jackpot with the first character, `I` (case sensitive for extra fun). If not, it just keeps trying until it does. Once it matches `I`, it moves on to the next character ` ` (blank space), then `l`, and so on, until it eventually spells out the entire thing. Stupid, right? But I linda like stupid 😄
+
+## How to install
+
+### Step 1
+
 Simply copy and paste it into your terminal/comand prompt/bash/whatever is your favorite  
-```
+
+```bash
 git clone https://github.com/shibjyoti555/keepTyping/
 ```  
+
 It should be done instantly
-## Step 2
+
+### Step 2
+
 Navigate to the directory  
 for Windows:  
-```
+
+```bash
 cd keepTyping
 ```
-## Step 3
+
+### Step 3
+
 Compile  
-```
+
+```bash
 javac keepTyping.java
 ```
-## Step 4
+
+### Step 4
+
 Run and enjoy :D  
-```
+
+```java
 java keepTyping.class
 ```
 
-# FAQ
+## FAQ
+
 Why this?
 >Because who doesn't love a bit of randomness in their life? Plus, it's kinda like watching a super patient robot guess your password.
 
